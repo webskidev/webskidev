@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @webskydev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hello I'm @webskydev - frontend developer from 🇵🇱
+
+I'm working mostly with Angular with Typescript & Node.js 😎 <br />
+I’m interested in all kind of frontend stuff from HTML forms through Web3 to a11y 🚀
+
+📫 How to reach me
+- [linkedin](https://www.linkedin.com/in/piotr-morek-554aa3198/)
 
 <!---
 webskydev/webskydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
