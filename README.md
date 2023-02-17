@@ -1,4 +1,4 @@
-### 👋 Hello I'm @webskydev - frontend developer from 🇵🇱
+### 👋 Hello I'm @webskidev - frontend developer from 🇵🇱
 
 I'm working mostly with Angular with Typescript & Node.js 😎 <br />
 I’m interested in all kind of frontend stuff from HTML forms through Web3 to a11y 🚀
