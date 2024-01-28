@@ -5,6 +5,7 @@ I’m interested in all kind of frontend stuff from HTML forms through Web3 to a
 
 📫 How to reach me
 - [linkedin](https://www.linkedin.com/in/piotr-morek-554aa3198/)
+- [blog](https://medium.com/@piotrmorek) - polish language 🇵🇱
 
 <!---
 webskydev/webskydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
